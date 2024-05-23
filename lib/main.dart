@@ -76,7 +76,7 @@ class _MyAppState extends State<MyApp> {
                   child: const Text("Scan Documents"),
                 ),
               ),
-              /*Padding(
+Padding(
                 padding: const EdgeInsets.symmetric(vertical: 8.0),
                 child: ElevatedButton(
                   onPressed: () {
@@ -84,7 +84,8 @@ class _MyAppState extends State<MyApp> {
                   },
                   child: const Text("Get Scan Documents URI"),
                 ),
-              ),*/
+              ),
+
             ],
           ),
         ),

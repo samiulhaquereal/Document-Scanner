@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_doc_scanner: ^0.0.7
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
